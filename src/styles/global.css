@@ -1,0 +1,23 @@
+.table {
+  width: 100%;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
+
+thead th {
+  font-weight: bold;
+}
+
+.mx-auto {
+  margin: 0 auto;
+}
+
+.expandButton {
+  font-weight: 500;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #3489ca;
+}
